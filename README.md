@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I’m Takeshi 👋
+
+- 🇧🇷 Brazilian living in Japan
+- 🏭 Factory worker transitioning into development
+- 💻 Learning JavaScript, HTML, and CSS
+- 📚 Self-taught: studied Japanese (JLPT N1), English (TOEIC 775), philosophy, investments, and more
+- 🏋️ Bodybuilding & powerlifting daily
+- 🌱 Always curious and passionate about learning new things
 
 <!--
-**wattakeshi/wattakeshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Languages & Certifications**
+- Japanese: JLPT N1
+- English: TOEIC 775
+- Portuguese: Native
 -->
