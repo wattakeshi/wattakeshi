@@ -2,7 +2,7 @@
 
 - 🇧🇷 Brazilian living in Japan
 - 🏭 Factory worker transitioning into development
-- 💻 Learning JavaScript, HTML, and CSS
+- 💻 learning React.JS and planning to dive into backend
 - 📚 Self-taught: studied Japanese (JLPT N1), English (TOEIC 775), philosophy, investments, and more
 - 🏋️ Bodybuilding & powerlifting daily
 - 🌱 Always curious and passionate about learning new things
